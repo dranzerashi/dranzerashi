@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=dranzerashi&color=purple)
+![](https://komarev.com/ghpvc/?username=dranzerashi&color=green)
 <!--
 **dranzerashi/dranzerashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
