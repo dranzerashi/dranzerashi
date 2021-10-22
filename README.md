@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/dranzerashi?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dranzerashi&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Ashi's github stats"/>
+</a>
+<a href="https://github.com/dranzerashi?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dranzerashi&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+</a>
