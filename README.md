@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=dranzerashi&color=green)
 
-I’m **Ashith R** — a backend engineer who enjoys building scalable systems, experimenting with new ideas, and occasionally breaking things just to understand how they work.  
+I’m  a backend engineer who enjoys building scalable systems, experimenting with new ideas, and occasionally breaking things just to understand how they work.  
 This GitHub space is a collection of experiments, side-projects, and thoughts-in-code.
 
 ---
